@@ -1,2 +1,2 @@
-# app-tareas
-Es un app de tareas con ajax con php. Un CRUD, en formato JSON.
+# tareas-app
+Curso de php con ajax y mysql. Es una aplicación de tareas (CRUD) en formato JSON.
